@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <AssemblyName>BatchRvtToIfcExport2024</AssemblyName>
+    <RootNamespace>IfcExport2024</RootNamespace>
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Nullable>disable</Nullable>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="RevitAPI">
+      <HintPath>C:\Program Files\Autodesk\Revit 2024\RevitAPI.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="RevitAPIUI">
+      <HintPath>C:\Program Files\Autodesk\Revit 2024\RevitAPIUI.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+</Project>
+

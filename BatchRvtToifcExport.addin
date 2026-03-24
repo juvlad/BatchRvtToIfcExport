@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>Batch RVT to IFC Export 2024</Name>
+    <Assembly>C:\ProgramData\Autodesk\Revit\Addins\2024\BatchRvtToifcExport\BatchRvtToIfcExport2024.dll</Assembly>
+    <AddInId>8D83E2A9-9D57-4C83-9C7A-3C0B1B8C0F06</AddInId>
+    <FullClassName>ExportToIFC</FullClassName>
+    <VendorId>VRVT</VendorId>
+    <VendorDescription>RVT to ifc batch exporter.</VendorDescription>
+  </AddIn>
+</RevitAddIns>
+
