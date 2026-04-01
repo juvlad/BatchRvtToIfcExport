@@ -1,11 +1,11 @@
 This tool helps to export multipal rvt files to ifc format
 
-Firstly download the .exe file
+1. Firstly download the .exe file
 
-Unpack this file
+2. Unpack this file
 
-Choose the folder where rvt files are stored
+3. Choose the folder where rvt files are stored
 
-Choose the folder for storing ifc files
+4. Choose the folder for storing ifc files
 
 Enjoy
